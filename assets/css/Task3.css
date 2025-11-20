@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+}
+
+.banner {
+    background: #8b4b27;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.banner h1 {
+    margin: 0;
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar {
+    background: #d9b27b;
+    padding: 12px 0;
+    text-align: center;
+}
+
+.navbar a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #1e5128;
+    font-size: 20px;
+}
+
+.content {
+    background: #d9b27b;
+    padding: 30px 40px;
+}
+
+.content h2 {
+    font-size: 28px;
+    color: black;
+}
+
+.content p {
+    font-size: 18px;
+    margin: 10px 0;
+}
